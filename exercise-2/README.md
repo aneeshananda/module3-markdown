@@ -4,3 +4,8 @@ In the space below, make a three column table of the current courses you are tak
 Note that you can preview this Markdown in Atom to make sure it works correctly. See `complete` branch for an example.
 
 ---
+| **Course Number** | _Course Title_ | Course Instructor |
+| ----------------- | -------------- | ----------------- |
+|                   |                |                   |
+|                   |                |                   |
+|                   |                |                   |
